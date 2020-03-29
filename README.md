@@ -1,0 +1,2 @@
+# GetLatestPictureFromAlbum
+Android从手机相册获取最新拍摄的图片信息，并按照降序排列
